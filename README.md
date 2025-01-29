@@ -1,5 +1,7 @@
 # Cluster Analysis: Create, Visualize, and Interpret Customer Segments
 
+<img src="https://github.com/Moustafa00/CustomerSegmentation/blob/main/clusters.gif" width="70%"/>
+
 ## Overview
 
 This project explores methods for performing cluster analysis, visualizing clusters through dimensionality reduction, and interpreting clusters by analyzing impactful features. It provides practical implementations of k-Means and DBSCAN clustering techniques, evaluates cluster quality using Silhouette scores, and visualizes the results using PCA and t-SNE.
