@@ -1,6 +1,6 @@
 # Cluster Analysis: Create, Visualize, and Interpret Customer Segments
 
-<img src="https://github.com/Moustafa00/CustomerSegmentation/blob/main/clusters.gif" width="70%"/>
+<img src="https://raw.githubusercontent.com/Moustafa00/CustomerSegmentation/main/clusters.gif" />
 
 ## Overview
 
